@@ -1,0 +1,22 @@
+[
+  {
+    "name": "delay.line",
+    "preset": {
+      "delaytimeL": {
+        "value": 160
+      },
+      "delaytimeR": {
+        "value": 387
+      },
+      "dryWetMix": {
+        "value": 0.28
+      },
+      "feedbackL": {
+        "value": 0.4150000000000001
+      },
+      "feedbackR": {
+        "value": 0.4200000000000001
+      }
+    }
+  }
+]
